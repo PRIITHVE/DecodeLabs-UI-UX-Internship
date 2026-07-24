@@ -30,7 +30,7 @@ Design a low-fidelity homepage wireframe for an e-commerce website focusing on s
 
 ## Complete Project PDF
 
-📄 [Download Project 2 PDF](Project2-The-Blueprint-Wireframing.pdf)
+📄 [Download Project 2 PDF](Project2.pdf)
 
 ## Author
 **Kevati Priithve**
