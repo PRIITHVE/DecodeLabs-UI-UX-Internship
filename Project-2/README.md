@@ -28,8 +28,9 @@ Design a low-fidelity homepage wireframe for an e-commerce website focusing on s
 ### Page 4 – User Flow
 ![Page 4](user-flow.png)
 
-## PDF
-Download the complete project from **Project2.pdf**.
+## Complete Project PDF
+
+📄 [Download Project 2 PDF](Project2-The-Blueprint-Wireframing.pdf)
 
 ## Author
 **Kevati Priithve**
